@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Lab.Model": {
+      "commandName": "Project",
+      "sqlDebugging": true,
+      "nativeDebugging": true,
+      "jsWebView2Debugging": true
+    }
+  }
+}
