@@ -3,7 +3,7 @@
 
 Приложение написано на основе [технического задания](https://docs.google.com/document/d/1WfN2AcFEWbunQOdH66dF8DP4konRUROU/edit).
 
-[image](https://user-images.githubusercontent.com/96730744/206059335-969c880d-8549-461f-b5cb-6310919233dc.png)
+![image](https://user-images.githubusercontent.com/96730744/206059335-969c880d-8549-461f-b5cb-6310919233dc.png)
 
 # Oписание классов и методов
 Проект содержит в себе следующие классы:
